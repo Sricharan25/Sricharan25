@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sricharan25&label=Profile%20views&color=0e75b6&style=flat" alt="sricharan25" /> </p>
 
-- 🌱 I’m currently learning **Power BI, Python, SQL, Excel**
+- 🌱 I’m currently learning **Power BI, Excel, SQL, Python **
 
 - 📫 How to reach me **bodepudisricharan25@gmail.com**
 
